@@ -6,7 +6,6 @@ svg {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    display: block;
 }
   
 #label {
@@ -34,8 +33,8 @@ audio {
 
 @media only screen and (max-width: 600px) {
     svg {
-        width: 350px;
-        height: 350px;
+        width: 200px;
+        height: 200px;
     }
 }
 
